@@ -1,0 +1,94 @@
+{
+  "export_type": "standalone_static_web_build",
+  "exported_published_version_id": "2064722374435016700",
+  "entrypoint": "index.html",
+  "path_mode": "relative",
+  "combos_runtime_dependency": false,
+  "files": [
+    {
+      "path": "assets/generated/07175d82_cartoon_football_player.webp",
+      "bytes": 85012,
+      "sha256": "cfaa4b70eb49bed3508f4f017dd2ce5dcb7ee751c3e9df330bd1e22086482e33"
+    },
+    {
+      "path": "assets/generated/363ebfeb_trophy_dealer_boss.webp",
+      "bytes": 613642,
+      "sha256": "4f5831d6ee370c338e7ede58a3835bfa9d77f35932bedb7a9ec3320b4f9692d1"
+    },
+    {
+      "path": "assets/generated/54db5f74-8df5-4fb8-9fcd-aac477cd5cdb.webp",
+      "bytes": 79000,
+      "sha256": "46e111db67db71be8ad70f1821e9664eb82dde6aeb8ffd83c83471450d18ca60"
+    },
+    {
+      "path": "assets/generated/5756e4a2-7818-4c4a-bb27-504de74a9ead.webp",
+      "bytes": 74294,
+      "sha256": "9211a878e2042928b1ed820856358513f870ccb1b1f9fd47580bd9da043f35ac"
+    },
+    {
+      "path": "assets/generated/5ea00a1b_angry_goalkeeper.webp",
+      "bytes": 373086,
+      "sha256": "43de3b993493b6a895776929c392efb330838e507eea9f3c91f95471f96d972d"
+    },
+    {
+      "path": "assets/generated/6fcd5abc-76a8-4f74-86d8-9c69c722b24f.webp",
+      "bytes": 66552,
+      "sha256": "8a52f8b0684255eb0ac04e8cb6de208989a5167201b0e4b995591c3de6dcde7c"
+    },
+    {
+      "path": "assets/generated/7433a04a-aad7-46a5-8bfd-8cd2821f9732.webp",
+      "bytes": 74282,
+      "sha256": "04a7b7c81fa540cefd7b5bce4beea0667886e76be47085ba9ffbf8b259d1f198"
+    },
+    {
+      "path": "assets/generated/860951ab_hacker_referee.webp",
+      "bytes": 396806,
+      "sha256": "9d75d8af82ac8b5bbaa43c3d8a2a1cd4c0f52dfa742cf555a4b2f6f7d398aa1b"
+    },
+    {
+      "path": "assets/generated/a13cf2da6fd647ab914d84fd060c6ee9.webp",
+      "bytes": 284418,
+      "sha256": "ae7c36766e936f244a484ca39d4fdf1a96a742414f34da7c9078e2533091d9be"
+    },
+    {
+      "path": "assets/generated/a60470402e6e4138b65958b7d2f80ff1.webp",
+      "bytes": 405760,
+      "sha256": "63a5223c5a08450b23873c967941b98d30ea76d849a43200eb4b60084ba2351e"
+    },
+    {
+      "path": "assets/generated/b85f2ea298654eb19b7ba589ad12b68d.webp",
+      "bytes": 393488,
+      "sha256": "7a9aafe6cc2af3525cf7e0ceef565e05986251492fcbce2992a4691846268b5d"
+    },
+    {
+      "path": "assets/generated/c815fe88_sneaky_vendor.webp",
+      "bytes": 354418,
+      "sha256": "ba4d00ecccf0d024714290f8735269c382411efd811cf55278f3424df530f7d4"
+    },
+    {
+      "path": "assets/generated/dda6a0ab_shady_dealer.webp",
+      "bytes": 415238,
+      "sha256": "4a7f582f2a8cf06244ca5cad4182526cc7bf844284ecfaceb41f8921dbd78bba"
+    },
+    {
+      "path": "assets/generated/f724d304-cc52-4906-b375-baf6ba68f81b.webp",
+      "bytes": 85718,
+      "sha256": "5870f4b12e31922b300ccc1deb4dadf515c768b73423e92b9df3b63c43887066"
+    },
+    {
+      "path": "assets/generated/fdb691b223fe43118bc390ecacbe34e6.webp",
+      "bytes": 67118,
+      "sha256": "5aee9fa1e03074c4d7ca00fef4ce8f40ae92d9b998627ecb99b6683a2a5fd3c7"
+    },
+    {
+      "path": "assets/index-Q3Q46QUy.js",
+      "bytes": 174508,
+      "sha256": "373e95d836e4cb076be2132652e60011f1823b60e50466f32a562d21cb115d58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20999,
+      "sha256": "3b50d93ccc345b3a968f6ca8207c08e09e2dd225cd093ab9587c6960ec7a6b1b"
+    }
+  ]
+}
